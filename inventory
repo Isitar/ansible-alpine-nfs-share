@@ -1,0 +1,5 @@
+[shareServer]
+10.20.0.6
+
+[shareServer:vars]
+ansible_user=isitar
